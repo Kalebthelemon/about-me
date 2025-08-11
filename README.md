@@ -1,7 +1,7 @@
 # 🌐 Kaleb Lemmons | Seploss  
 **Cybersecurity Student & Vocal Engineer**  
 
-[![GitHub followers](https://img.shields.io/github/followers/seploss?style=flat&color=blue)](https://github.com/seploss)
+[![GitHub followers](https://img.shields.io/github/followers/Kalebthelemon?style=flat&color=blue)](https://github.com/Kalebthelemon)
 [![Security+ In Progress](https://img.shields.io/badge/Security%2B-In%20Progress-yellow)](#)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)](https://tryhackme.com/p/seploss)
 [![Ableton Live](https://img.shields.io/badge/Ableton-Live%2011-blueviolet)](#)
